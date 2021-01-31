@@ -6,6 +6,6 @@ namespace Banco_desafio.Service
 {
     interface IContaInvestimentoService
     {
-        public double Investir(double valor);
+        public void OperacaoInvestimento();
     }
 }

@@ -14,6 +14,7 @@ namespace Banco_desafio
             Console.WriteLine("1 - Depósito");
             Console.WriteLine("2 - Saque");
             Console.WriteLine("3 - Transferência");
+            Console.WriteLine("4 - Investimento");
 
             // obtem a opção selecionada pelo usuário
             var opcao = Console.ReadKey();
@@ -30,6 +31,9 @@ namespace Banco_desafio
 
                 case '3':
                     new ContaCorrenteService().OperacaoTransferencia();
+                    break;
+                case '4':
+                    new ContaInvestimentoService().OperacaoInvestimento();
                     break;
             }
         }

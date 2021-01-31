@@ -1,0 +1,13 @@
+C:\Users\jujuk\Documents\GitHub\Banco_desafio\obj\Debug\netcoreapp3.1\Banco_desafio.csprojAssemblyReference.cache
+C:\Users\jujuk\Documents\GitHub\Banco_desafio\obj\Debug\netcoreapp3.1\Banco_desafio.AssemblyInfoInputs.cache
+C:\Users\jujuk\Documents\GitHub\Banco_desafio\obj\Debug\netcoreapp3.1\Banco_desafio.AssemblyInfo.cs
+C:\Users\jujuk\Documents\GitHub\Banco_desafio\obj\Debug\netcoreapp3.1\Banco_desafio.csproj.CoreCompileInputs.cache
+C:\Users\jujuk\Documents\GitHub\Banco_desafio\bin\Debug\netcoreapp3.1\Banco_desafio.exe
+C:\Users\jujuk\Documents\GitHub\Banco_desafio\bin\Debug\netcoreapp3.1\Banco_desafio.deps.json
+C:\Users\jujuk\Documents\GitHub\Banco_desafio\bin\Debug\netcoreapp3.1\Banco_desafio.runtimeconfig.json
+C:\Users\jujuk\Documents\GitHub\Banco_desafio\bin\Debug\netcoreapp3.1\Banco_desafio.runtimeconfig.dev.json
+C:\Users\jujuk\Documents\GitHub\Banco_desafio\bin\Debug\netcoreapp3.1\Banco_desafio.dll
+C:\Users\jujuk\Documents\GitHub\Banco_desafio\bin\Debug\netcoreapp3.1\Banco_desafio.pdb
+C:\Users\jujuk\Documents\GitHub\Banco_desafio\obj\Debug\netcoreapp3.1\Banco_desafio.dll
+C:\Users\jujuk\Documents\GitHub\Banco_desafio\obj\Debug\netcoreapp3.1\Banco_desafio.pdb
+C:\Users\jujuk\Documents\GitHub\Banco_desafio\obj\Debug\netcoreapp3.1\Banco_desafio.genruntimeconfig.cache
