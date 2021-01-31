@@ -2,7 +2,7 @@
 
 Este é um Console Application onde é possível realizar as operações básicas de um banco. Feito com o objetivo de aprender os conceitos da *Programação Orientada a Objetos*.
 
-**Projeto Concluído!** 
+**Projeto Concluído!** :heavy_check_mark:
 
 # :clipboard: Sumário 
 <!--ts--> 
